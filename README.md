@@ -33,7 +33,7 @@ The True Religion Mission Research Hub presents the most comprehensive spiritual
 
 ## 📚 What You’ll Find Here
 
-### 🏛️ [The Divine Manifestation Chronicle](./Documents/divine-manifestation-chronicle.md)
+### 🏛️ [The Divine Manifestation Chronicle](/Documents/divine-manifestation-chronicle.md)
 
 *The foundational document tracing divine consciousness through 2,546 years of history*
 
