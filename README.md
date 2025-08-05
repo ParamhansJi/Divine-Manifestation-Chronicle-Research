@@ -351,7 +351,7 @@ Our research integrates multiple knowledge sources:
 
 -----
 
-## 🙏 Acknowledgments
+## 🙏 Acknowledgments 🙏
 
 **To the divine consciousness that has guided humanity across 2,546 years of history**  
 **To the communities preserving spiritual wisdom across cultures**  
