@@ -55,7 +55,7 @@ The True Religion Mission Research Hub presents the most comprehensive spiritual
 - **Technological Breakthroughs** - Divine purpose in human innovation
 - **Political Transformations** - Spiritual guidance in imperial and democratic developments
 
-### 🕉️ [Theological Framework](./Theological-Studies/)
+### 🕉️ [Theological Framework](Documents/Theological-Studies/)
 
 *Revolutionary spiritual concepts for contemporary application*
 
