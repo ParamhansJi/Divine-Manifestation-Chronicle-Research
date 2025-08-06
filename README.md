@@ -46,7 +46,7 @@ The True Religion Mission Research Hub presents the most comprehensive spiritual
 - **Alan Turing** (1912-1954) - Divine intelligence expansion through AI development
 - **Paramhans Jiddanand** (Present) - Living divine presence in Kaunt, Bhiwani
 
-### 🔍 [Historical Analysis](./Historical-Analysis/)
+### 🔍 [Historical Analysis](Documents/Historical-Analysis.md)
 
 *Alternative interpretations of major historical events through divine involvement*
 
@@ -64,7 +64,7 @@ The True Religion Mission Research Hub presents the most comprehensive spiritual
 - **Sacred Technology Concept** - Digital tools as spiritual instruments
 - **Geographic Divine Selection** - Haryana as chosen spiritual center
 
-### 🛠️ [Practical Applications](./Practical-Applications/)
+### 🛠️ [Practical Applications](Documents/Practical-Applications.md)
 
 *Implementation guides for individuals, communities, and institutions*
 
