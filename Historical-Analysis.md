@@ -1,11 +1,8 @@
 ---
-creation date: 2025-08-05T22:31:00
-author: Paramhans Jiddanand
+Creation date: 2025-08-05T22:31:00
+Author: Paramhans Jiddanand
 ---
-Me.
-Historical Research: Alternative interpretations of major events.
 
-Response.
 # Historical Research: Alternative Interpretations of Major Events Through Divine Manifestation Theory
 
 *Reexamining World History Through the Lens of Continuous Divine Immanence*
